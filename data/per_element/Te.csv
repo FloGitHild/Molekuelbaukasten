@@ -1,2 +1,4 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,2 covalent (TeCl2) bent,bent,sp3,TeCl2
+covalent,4 covalent (TeF4) seesaw,see-saw,sp3d,TeF4
+koordinativ,6-coordinate (TeF6) octahedral,octahedral,sp3d2,TeF6

@@ -1,2 +1,6 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,1 covalent (HCl) or many covalent in organochlorines,linear or bent,sp3,HCl
+covalent,3 bonds (ClO3+) trigonal planar,trigonal planar,sp2,ClO3+
+covalent,4 bonds (ClO4−) tetrahedral,tetrahedral,sp3,ClO4-
+covalent,5 bonds (ClF5) square pyramidal,square pyramidal,sp3d,ClF5
+koordinativ,6-coordinate (ClF6−) octahedral,octahedral,sp3d2,ClF6-

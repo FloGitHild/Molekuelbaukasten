@@ -1,2 +1,4 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,2 covalent + 2 lone pairs (H2S),bent,sp3,H2S
+covalent,4 covalent (SF4) seesaw,see-saw,sp3d,SF4
+covalent,6-coordinate (SF6) octahedral,octahedral,sp3d2,SF6

@@ -1,35 +1,35 @@
 element,diameter_mm,typical_bindings,notes
-H,15,to be filled,data not yet populated
-He,16,to be filled,data not yet populated
-Li,17,to be filled,data not yet populated
-Be,18,to be filled,data not yet populated
-B,19,to be filled,data not yet populated
-C,20,to be filled,data not yet populated
-N,21,to be filled,data not yet populated
-O,22,to be filled,data not yet populated
-F,23,to be filled,data not yet populated
-Ne,24,to be filled,data not yet populated
-Na,25,to be filled,data not yet populated
-Mg,26,to be filled,data not yet populated
-Al,27,to be filled,data not yet populated
-Si,28,to be filled,data not yet populated
-P,29,to be filled,data not yet populated
-S,30,to be filled,data not yet populated
-Cl,31,to be filled,data not yet populated
-Ar,32,to be filled,data not yet populated
-K,33,to be filled,data not yet populated
-Ca,34,to be filled,data not yet populated
-Ga,35,to be filled,data not yet populated
-Ge,36,to be filled,data not yet populated
-As,37,to be filled,data not yet populated
-Se,38,to be filled,data not yet populated
-Br,39,to be filled,data not yet populated
-Kr,40,to be filled,data not yet populated
-Rb,41,to be filled,data not yet populated
-Sr,42,to be filled,data not yet populated
-In,43,to be filled,data not yet populated
-Sn,44,to be filled,data not yet populated
-Sb,45,to be filled,data not yet populated
-Te,46,to be filled,data not yet populated
-I,47,to be filled,data not yet populated
-Xe,48,to be filled,data not yet populated
+H,15,covalent:H2,data not yet populated
+He,16,none,data not yet populated
+Li,17,ionic:LiCl,data not yet populated
+Be,18,covalent:BeCl2; coordinative:Be(H2O)4]2+,data not yet populated
+B,19,covalent:BF3,data not yet populated
+C,20,covalent:CH4; covalent:CO2; covalent:C2H2,data not yet populated
+N,21,covalent:NH3; covalent:N2; covalent:NO2-; coordinative:NH3 to AlCl3,data not yet populated
+O,22,covalent:H2O; covalent:H2C=O; covalent:O=O; koordinativ:H3O+ or metal complex,data not yet populated
+F,23,covalent:HF; koord_koordinativ:F-bridges in HF…,data not yet populated
+Ne,24,none,data not yet populated
+Na,25,ionic:NaCl,data not yet populated
+Mg,26,ionic:MgCl2; koordinativ:Mg(H2O)6]2+,data not yet populated
+Al,27,covalent:AlCl3; koordinativ:AlH4-; koordinativ:[Al(H2O)6]3+,data not yet populated
+Si,28,covalent:SiH4; koordinativ:SiF6^2-,data not yet populated
+P,29,covalent:PH3; covalent:PF5; koordinativ:PF6-,data not yet populated
+S,30,covalent:H2S; covalent:SF4; covalent:SF6,data not yet populated
+Cl,31,covalent:HCl; covalent:ClO3+; covalent:ClO4-; covalent:ClF5; koordinativ:ClF6-,data not yet populated
+Ar,32,none,data not yet populated
+K,33,ionic:KF; koordinativ:K+ in complexes,data not yet populated
+Ca,34,ionic:CaCl2; koordinativ:[Ca(H2O)6]2+,data not yet populated
+Ga,35,covalent:GaCl3; covalent:GaCl4-; TBP:GaF5; oktaedrisch:[Ga(H2O)6]3+,data not yet populated
+Ge,36,covalent:GeCl4; koordinativ:GeF6^2-,data not yet populated
+As,37,covalent:AsCl3; covalent:AsF5; koordinativ:AsO4^3- / AsO6^3-,data not yet populated
+Se,38,covalent:SeCl2; covalent:SeF4; koordinativ:SeF6,data not yet populated
+Br,39,covalent:HBr; covalent:BrF3; covalent:BrF5; koordinativ:BrF6-,data not yet populated
+Kr,40,none,data not yet populated
+Rb,41,ionic:RbI,data not yet populated
+Sr,42,ionic:SrSO4,data not yet populated
+In,43,covalent:InCl3; covalent:InCl4-; koordinativ:In(H2O)6+ etc,data not yet populated
+Sn,44,covalent:SnCl4; covalent:SnCl2,data not yet populated
+Sb,45,covalent:SbCl3; covalent:SbF5; koordinativ:SbF6-,data not yet populated
+Te,46,covalent:TeCl2; covalent:TeF4; koordinativ:TeF6,data not yet populated
+I,47,covalent:HI; covalent:IF3; covalent:IF5; covalent:IF7,data not yet populated
+Xe,48,covalent:XeF2; covalent:XeF4; covalent:XeF6; koordinativ:XeO4,data not yet populated

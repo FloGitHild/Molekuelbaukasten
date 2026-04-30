@@ -1,2 +1,5 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,1 covalent (HI) or organoiodines,linear,p,HI
+covalent,3 bonds (IF3) T‑shaped,T‑shaped,sp3,IF3
+covalent,5 bonds (IF5) square pyramidal,square pyramidal,sp3d,IF5
+covalent,7 coordination (IF7) pentagonal bipyramidal,pentagonal bipyramidal,sp3d2,IF7

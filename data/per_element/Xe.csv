@@ -1,2 +1,5 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,2 covalent (XeF2) linear,linear,sp,XeF2
+covalent,4 covalent (XeF4) square planar,square planar,sp3d2,XeF4
+covalent,6 covalent (XeF6) octahedral,octahedral,sp3d2,XeF6
+koordinativ,4 coordinate (XeO4) tetrahedral,tetrahedral,sp3,XeO4

@@ -1,2 +1,4 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,3 covalent bonds (AlCl3),trigonal planar,sp2,AlCl3
+koordinativ,"4 covalent/coordinate (AlH4−, AlCl4−)",tetrahedral,sp3,AlH4-
+koordinativ,6-coordinate (Al(H2O)6)3+ typical,octahedral,sp3d2,[Al(H2O)6]3+

@@ -1,2 +1,3 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,"1 covalent (HF, CF4)",linear,s,HF
+koord_koordinativ,1 donor in complexes,-,-,F-bridges in HF…

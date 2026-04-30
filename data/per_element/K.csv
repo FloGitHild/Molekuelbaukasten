@@ -1,2 +1,3 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+ionic,1 ionic bond (K+ salts),-,-,KF
+koordinativ,complexes reaching CN 4–6,tetrahedral to octahedral,-,K+ in complexes

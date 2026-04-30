@@ -1,2 +1,5 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,3 covalent + 1 lone pair (NH3),pyramidal,sp3,NH3
+covalent,1 triple + 0 lone pairs (N2),linear,sp,N2
+covalent,2 covalent + 1 double (NO2⁻),trigonal planar oder bent,sp2,NO2-
+coordinative,donor in complexes (NH3→AlCl3),tetrahedral,sp3,NH3 to AlCl3

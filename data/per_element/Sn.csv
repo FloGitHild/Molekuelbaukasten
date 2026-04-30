@@ -1,2 +1,3 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,4 covalent (SnCl4),tetrahedral,sp3,SnCl4
+covalent,2 covalent (SnCl2) bent,bent,sp2?,SnCl2

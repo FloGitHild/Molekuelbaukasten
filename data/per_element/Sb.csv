@@ -1,2 +1,4 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,3 covalent (SbCl3),pyramidal,sp3,SbCl3
+covalent,5 covalent (SbF5) TBP,TBP,sp3d,SbF5
+koordinativ,6-coordinate (SbF6−) octahedral,octahedral,sp3d2,SbF6-

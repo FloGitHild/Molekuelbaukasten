@@ -1,2 +1,5 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,1 covalent (HBr) or organobromines,linear or bend,sp3,HBr
+covalent,3 bonds (BrF3) T‑shaped,T‑shaped,sp3,BrF3
+covalent,5 bonds (BrF5) square pyramidal,square pyramidal,sp3d,BrF5
+koordinativ,6-coordinate (BrF6−) octahedral,octahedral,sp3d2,BrF6-

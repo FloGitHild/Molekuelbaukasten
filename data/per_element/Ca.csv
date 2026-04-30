@@ -1,2 +1,3 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+ionic,2 ionic bonds (Ca2+),-,-,CaCl2
+koordinativ,CN 6–8 typical in hydrated complexes,octahedral,-,[Ca(H2O)6]2+

@@ -1,2 +1,3 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,1 covalent bond (H-H in H2),linear,s,H2
+covalent,1 covalent bond (H-X in HX molecules like HF),linear,s,HF

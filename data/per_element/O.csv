@@ -1,2 +1,5 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,2 covalent + 2 lone pairs (H2O),bent,sp3,H2O
+covalent,1 double (C=O) in carbonyl,trigonal planar,sp2,H2C=O
+covalent,2 double (O=O in CO2 per O),linear,sp,O=O
+koordinativ,donor in H3O+ or metal-ligand,trigonal pyramidal,sp3,H3O+ or metal complex

@@ -1,2 +1,4 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,3 covalent (AsCl3),pyramidal,sp3,AsCl3
+covalent,5 covalent (AsF5) TBP,TBP,sp3d,AsF5
+koordinativ,4–6 coordination in oxoanions,tetra-/octahedral,sp3d2,AsO4^3- / AsO6^3-

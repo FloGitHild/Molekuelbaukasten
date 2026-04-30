@@ -1,2 +1,4 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,3 covalent (InCl3),trigonal planar,sp2,InCl3
+covalent,4 covalent (InCl4−),tetrahedral,sp3,InCl4-
+koordinativ,5–6 coordination in complexes,pyramidal to octahedral,-,In(H2O)6+ etc

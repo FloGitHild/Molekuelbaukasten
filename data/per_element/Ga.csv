@@ -1,2 +1,5 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,3 covalent (GaCl3),trigonal planar,sp2,GaCl3
+covalent,4 covalent (GaCl4−),tetrahedral,sp3,GaCl4-
+TBP,5 coordination (GaF5 TBP),trigonal Bipyramidal,sp3d,GaF5
+oktaedrisch,6-coordinate (Ga(H2O)6)3+,octahedral,sp3d2,[Ga(H2O)6]3+

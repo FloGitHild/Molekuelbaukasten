@@ -1,2 +1,3 @@
 binding_type,description,geometry,hybridization,example
-to_be_defined,placeholder for element data,-,-,-
+covalent,4 covalent (GeCl4),tetrahedral,sp3,GeCl4
+koordinativ,6-coordinate (GeF6)2−,octahedral,sp3d2,GeF6^2-
